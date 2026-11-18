@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+
+    <!-- Кнопки -->
+    <string name="btn_clear">C</string>
+    <string name="btn_sign">+/-</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_dot">.</string>
+
+    <!-- Цифры -->
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+
+    <!-- Сообщения -->
+    <string name="error_division_by_zero">Ошибка</string>
+</resources>
